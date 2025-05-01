@@ -1,0 +1,59 @@
+body {
+    background-color: rgba(253, 234, 137, 0.896);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .profile-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 2px solid black;
+    object-fit: cover;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .name {
+    color:whitesmoke ;
+    background-color:rgba(238, 75, 46, 0.908);
+    border: 2px solid black;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 1px;
+    margin-bottom: 10px;
+  }
+  .tagline {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .about-section {
+    background-color:rgba(238, 75, 46, 0.908);
+    border: 2px solid black;
+    font-style: italic;
+    border-radius: 1px;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  .about-section h2 {
+    color:whitesmoke ;
+    margin: 0;
+  }
+  .intro {
+    color: black;
+    font-size: 16px;
+    padding-left: 8em;
+    padding-right: 8em;
+  }
+  #h1tag{
+    color:rgb(46, 43, 43);
+  }
+  #h2tag{
+    color:rgb(46, 43, 43);
+  }
